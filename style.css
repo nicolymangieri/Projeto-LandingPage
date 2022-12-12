@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Shadows+Into+Light&display=swap');
+* {
+    margin: 40;
+    padding: 55;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(68.15deg, #e62a09 16.62%, #e6c327 81.25%);
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 7px;
+}
+
+.cabecalho-imagem {
+    width: 100;
+    height: 128px;
+    border-radius: 0%;
+    justify-content:flex-start
+}
+
+.cabecalho-infos {
+    display: flex;
+    gap: 30px;
+}
+
+.cabecalho-infos-texto {
+    font-family: 'Limelight', cursive;
+    color: #000000;
+    font-weight: 500;
+    font-size: 33px;
+}
+
+  .meio {
+    border-top: 0.9px dotted #000000;
+    margin-bottom: 10px;
+  }
+
+  .meio-principal {
+    display: flex;
+    flex-direction:row;
+    align-items:flex-end;
+    justify-content: space-between;
+    margin-top: 26px;
+    gap: 20px
+  
+  }
+
+  .meio-principal2 {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  /*.meio-texto-titulo {
+    font-family: 'Limelight', cursive;
+    font-weight: 100;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 10px;
+    opacity:76%;
+  }*/
+
+  .principal-luffy {
+    height: 300px;
+    border-radius: 0%;
+    opacity: 100%;
+  }
+    .rodape {
+      border-top: 0.9px dotted #000000;
+      margin-bottom: 10px;
+  }
