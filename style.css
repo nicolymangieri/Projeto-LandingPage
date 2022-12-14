@@ -58,15 +58,6 @@ body {
     gap: 32px;
   }
 
-  /*.meio-texto-titulo {
-    font-family: 'Limelight', cursive;
-    font-weight: : 180;
-    font-size: 20px;
-    color: #000: 180;
-    margin-top: 10px;
-    opacity:76%;
-  }*/
-
   .principal-luffy {
     height: 300px;
     border-radius: 0%;
@@ -88,23 +79,6 @@ body {
 
  }
 
- .botao2:hover {
-  background-color: #b43a3a98;
-
-
- }
-
- .botao3:hover {
-  background-color: #b43a3a98;
-
-
- } 
-
- .botao4:hover {
-  background-color: #b43a3a98;
-
-
- }
 .botao1 {
   background-color: #cfb994b4;
         width: 180;
