@@ -163,3 +163,9 @@ body {
   font-weight: 180;
   font-size: 24px;
 }
+
+.videoLegenda {
+    display: flex;
+    flex-direction: column;
+    width: 25%
+  }
